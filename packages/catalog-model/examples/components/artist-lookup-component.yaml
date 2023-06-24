@@ -31,7 +31,7 @@ metadata:
   annotations:
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
     #jenkins.io/job-full-name: folder/test
-    jenkins.io/job-full-name: multibranchtest/main
+    jenkins.io/job-full-name: folder/multibranchtest
 spec:
   type: service
   lifecycle: experimental
