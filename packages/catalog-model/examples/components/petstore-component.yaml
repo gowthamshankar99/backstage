@@ -11,6 +11,10 @@ metadata:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
       icon: github
+  annotations:
+    backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
+    #jenkins.io/job-full-name: folder/test
+    jenkins.io/job-full-name: folder/multibranchtest      
 spec:
   type: service
   lifecycle: experimental
